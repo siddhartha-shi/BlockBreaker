@@ -1,0 +1,2 @@
+You have to give permission for following permission(s):
+1. android.permission.READ_PHONE_STATE. 
